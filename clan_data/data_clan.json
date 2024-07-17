@@ -2,7 +2,7 @@
   "clan": [
     {
       "name": "Celestial Divine Court",
-      "members": [
+      "hero": [
         {
           "name": "Ayumi",
           "short_lore": "Ayumi hails from the Hidden Fox Clan. She is once saved by unknown person who becomes her admired person, she is determined to find this said person.",
@@ -14,7 +14,7 @@
         },
         {
           "name": "Petal",
-          "short_lore": "Centuries ago, in the serene and enchanting forests of the Celestial Plains, the Fox Clan thrived in harmony with nature. The clan members, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
+          "short_lore": "Centuries ago, in the serene and enchanting forests of the Celestial Plains, the Fox Clan thrived in harmony with nature. The clan hero, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
           "title": "Master of the 6 Pink Petals",
           "rank": "Unique",
           "image": "1-debug",
@@ -34,7 +34,7 @@
     },
     {
       "name": "Crystal Lotus Lake",
-      "members": [
+      "hero": [
         {
           "name": "Ayumi",
           "short_lore": "Ayumi hails from the Hidden Fox Clan. She is once saved by unknown person who becomes her admired person, she is determined to find this said person.",
@@ -46,7 +46,7 @@
         },
         {
           "name": "Petal",
-          "short_lore": "Centuries ago, in the serene and enchanting forests of the Celestial Plains, the Fox Clan thrived in harmony with nature. The clan members, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
+          "short_lore": "Centuries ago, in the serene and enchanting forests of the Celestial Plains, the Fox Clan thrived in harmony with nature. The clan hero, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
           "title": "Master of the 6 Pink Petals",
           "rank": "Unique",
           "image": "1-debug",
@@ -66,7 +66,7 @@
     },
     {
       "name": "Emerald Flame Empire",
-      "members": [
+      "hero": [
         {
           "name": "Ayumi",
           "short_lore": "Ayumi hails from the Hidden Fox Clan. She is once saved by unknown person who becomes her admired person, she is determined to find this said person.",
@@ -78,7 +78,7 @@
         },
         {
           "name": "Petal",
-          "short_lore": "Centuries ago, in the serene and enchanting forests of the Celestial Plains, the Fox Clan thrived in harmony with nature. The clan members, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
+          "short_lore": "Centuries ago, in the serene and enchanting forests of the Celestial Plains, the Fox Clan thrived in harmony with nature. The clan hero, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
           "title": "Master of the 6 Pink Petals",
           "rank": "Unique",
           "image": "1-debug",
@@ -98,7 +98,7 @@
     },
     {
       "name": "Frozen Blossom Realm",
-      "members": [
+      "hero": [
         {
           "name": "Ayumi",
           "short_lore": "Ayumi hails from the Hidden Fox Clan. She is once saved by unknown person who becomes her admired person, she is determined to find this said person.",
@@ -110,7 +110,7 @@
         },
         {
           "name": "Petal",
-          "short_lore": "Centuries ago, in the serene and enchanting forests of the Celestial Plains, the Fox Clan thrived in harmony with nature. The clan members, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
+          "short_lore": "Centuries ago, in the serene and enchanting forests of the Celestial Plains, the Fox Clan thrived in harmony with nature. The clan hero, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
           "title": "Master of the 6 Pink Petals",
           "rank": "Unique",
           "image": "1-debug",
@@ -130,7 +130,7 @@
     },
     {
       "name": "Golden Pagoda Republic",
-      "members": [
+      "hero": [
         {
           "name": "Ayumi",
           "short_lore": "Ayumi hails from the Hidden Fox Clan. She is once saved by unknown person who becomes her admired person, she is determined to find this said person.",
@@ -142,7 +142,7 @@
         },
         {
           "name": "Petal",
-          "short_lore": "Centuries ago, in the serene and enchanting forests of the Celestial Plains, the Fox Clan thrived in harmony with nature. The clan members, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
+          "short_lore": "Centuries ago, in the serene and enchanting forests of the Celestial Plains, the Fox Clan thrived in harmony with nature. The clan hero, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
           "title": "Master of the 6 Pink Petals",
           "rank": "Unique",
           "image": "1-debug",
@@ -162,7 +162,7 @@
     },
     {
       "name": "Hidden Village",
-      "members": [
+      "hero": [
         {
           "name": "Ayumi",
           "short_lore": "Ayumi hails from the Hidden Fox Clan. She is once saved by unknown person who becomes her admired person, she is determined to find this said person.",
@@ -174,7 +174,7 @@
         },
         {
           "name": "Petal",
-          "short_lore": "Centuries ago, in the serene and enchanting forests of the Celestial Plains, the Fox Clan thrived in harmony with nature. The clan members, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
+          "short_lore": "Centuries ago, in the serene and enchanting forests of the Celestial Plains, the Fox Clan thrived in harmony with nature. The clan hero, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
           "title": "Master of the 6 Pink Petals",
           "rank": "Unique",
           "image": "1-debug",
@@ -194,7 +194,7 @@
     },
     {
       "name": "Jade Phoenix Alliance",
-      "members": [
+      "hero": [
         {
           "name": "Ayumi",
           "short_lore": "Ayumi hails from the Hidden Fox Clan. She is once saved by unknown person who becomes her admired person, she is determined to find this said person.",
@@ -206,7 +206,7 @@
         },
         {
           "name": "Petal",
-          "short_lore": "Centuries ago, in the serene and enchanting forests of the Celestial Plains, the Fox Clan thrived in harmony with nature. The clan members, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
+          "short_lore": "Centuries ago, in the serene and enchanting forests of the Celestial Plains, the Fox Clan thrived in harmony with nature. The clan hero, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
           "title": "Master of the 6 Pink Petals",
           "rank": "Unique",
           "image": "1-debug",
@@ -226,7 +226,7 @@
     },
     {
       "name": "Moonlight Lotus",
-      "members": [
+      "hero": [
         {
           "name": "Ayumi",
           "short_lore": "Ayumi hails from the Hidden Fox Clan. She is once saved by unknown person who becomes her admired person, she is determined to find this said person.",
@@ -238,7 +238,7 @@
         },
         {
           "name": "Petal",
-          "short_lore": "Centuries ago, in the serene and enchanting forests of the Celestial Plains, the Fox Clan thrived in harmony with nature. The clan members, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
+          "short_lore": "Centuries ago, in the serene and enchanting forests of the Celestial Plains, the Fox Clan thrived in harmony with nature. The clan hero, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
           "title": "Master of the 6 Pink Petals",
           "rank": "Unique",
           "image": "1-debug",
@@ -258,7 +258,7 @@
     },
     {
       "name": "Mystic Crane Village",
-      "members": [
+      "hero": [
         {
           "name": "Ayumi",
           "short_lore": "Ayumi hails from the Hidden Fox Clan. She is once saved by unknown person who becomes her admired person, she is determined to find this said person.",
@@ -270,7 +270,7 @@
         },
         {
           "name": "Petal",
-          "short_lore": "Centuries ago, in the serene and enchanting forests of the Celestial Plains, the Fox Clan thrived in harmony with nature. The clan members, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
+          "short_lore": "Centuries ago, in the serene and enchanting forests of the Celestial Plains, the Fox Clan thrived in harmony with nature. The clan hero, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
           "title": "Master of the 6 Pink Petals",
           "rank": "Unique",
           "image": "1-debug",
@@ -290,7 +290,7 @@
     },
     {
       "name": "Obsidian Tortoise Fortress",
-      "members": [
+      "hero": [
         {
           "name": "Ayumi",
           "short_lore": "Ayumi hails from the Hidden Fox Clan. She is once saved by unknown person who becomes her admired person, she is determined to find this said person.",
@@ -302,7 +302,7 @@
         },
         {
           "name": "Petal",
-          "short_lore": "Centuries ago, in the serene and enchanting forests of the Celestial Plains, the Fox Clan thrived in harmony with nature. The clan members, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
+          "short_lore": "Centuries ago, in the serene and enchanting forests of the Celestial Plains, the Fox Clan thrived in harmony with nature. The clan hero, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
           "title": "Master of the 6 Pink Petals",
           "rank": "Unique",
           "image": "1-debug",
@@ -322,7 +322,7 @@
     },
     {
       "name": "Red Hot Steel",
-      "members": [
+      "hero": [
         {
           "name": "Ayumi",
           "short_lore": "Ayumi hails from the Hidden Fox Clan. She is once saved by unknown person who becomes her admired person, she is determined to find this said person.",
@@ -334,7 +334,7 @@
         },
         {
           "name": "Petal",
-          "short_lore": "Centuries ago, in the serene and enchanting forests of the Celestial Plains, the Fox Clan thrived in harmony with nature. The clan members, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
+          "short_lore": "Centuries ago, in the serene and enchanting forests of the Celestial Plains, the Fox Clan thrived in harmony with nature. The clan hero, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
           "title": "Master of the 6 Pink Petals",
           "rank": "Unique",
           "image": "1-debug",
@@ -354,7 +354,7 @@
     },
     {
       "name": "Silver Crane Dynasty",
-      "members": [
+      "hero": [
         {
           "name": "Ayumi",
           "short_lore": "Ayumi hails from the Hidden Fox Clan. She is once saved by unknown person who becomes her admired person, she is determined to find this said person.",
@@ -366,7 +366,7 @@
         },
         {
           "name": "Petal",
-          "short_lore": "Centuries ago, in the serene and enchanting forests of the Celestial Plains, the Fox Clan thrived in harmony with nature. The clan members, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
+          "short_lore": "Centuries ago, in the serene and enchanting forests of the Celestial Plains, the Fox Clan thrived in harmony with nature. The clan hero, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
           "title": "Master of the 6 Pink Petals",
           "rank": "Unique",
           "image": "1-debug",
@@ -386,7 +386,7 @@
     },
     {
       "name": "Stormcaller's Island",
-      "members": [
+      "hero": [
         {
           "name": "Ayumi",
           "short_lore": "Ayumi hails from the Hidden Fox Clan. She is once saved by unknown person who becomes her admired person, she is determined to find this said person.",
@@ -398,7 +398,7 @@
         },
         {
           "name": "Petal",
-          "short_lore": "Centuries ago, in the serene and enchanting forests of the Celestial Plains, the Fox Clan thrived in harmony with nature. The clan members, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
+          "short_lore": "Centuries ago, in the serene and enchanting forests of the Celestial Plains, the Fox Clan thrived in harmony with nature. The clan hero, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
           "title": "Master of the 6 Pink Petals",
           "rank": "Unique",
           "image": "1-debug",
@@ -418,7 +418,7 @@
     },
     {
       "name": "Thunder Mountain Tribe",
-      "members": [
+      "hero": [
         {
           "name": "Ayumi",
           "short_lore": "Ayumi hails from the Hidden Fox Clan. She is once saved by unknown person who becomes her admired person, she is determined to find this said person.",
@@ -430,7 +430,7 @@
         },
         {
           "name": "Petal",
-          "short_lore": "Centuries ago, in the serene and enchanting forests of the Celestial Plains, the Fox Clan thrived in harmony with nature. The clan members, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
+          "short_lore": "Centuries ago, in the serene and enchanting forests of the Celestial Plains, the Fox Clan thrived in harmony with nature. The clan hero, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
           "title": "Master of the 6 Pink Petals",
           "rank": "Unique",
           "image": "1-debug",
@@ -450,7 +450,7 @@
     },
     {
       "name": "Veil of Darksara",
-      "members": [
+      "hero": [
         {
           "name": "Ayumi",
           "short_lore": "Ayumi hails from the Hidden Fox Clan. She is once saved by unknown person who becomes her admired person, she is determined to find this said person.",
@@ -462,7 +462,7 @@
         },
         {
           "name": "Petal",
-          "short_lore": "Centuries ago, in the serene and enchanting forests of the Celestial Plains, the Fox Clan thrived in harmony with nature. The clan members, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
+          "short_lore": "Centuries ago, in the serene and enchanting forests of the Celestial Plains, the Fox Clan thrived in harmony with nature. The clan hero, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
           "title": "Master of the 6 Pink Petals",
           "rank": "Unique",
           "image": "1-debug",
@@ -482,7 +482,7 @@
     },
     {
       "name": "Whispering Bamboo Grove",
-      "members": [
+      "hero": [
         {
           "name": "Ayumi",
           "short_lore": "Ayumi hails from the Hidden Fox Clan. She is once saved by unknown person who becomes her admired person, she is determined to find this said person.",
@@ -494,7 +494,7 @@
         },
         {
           "name": "Petal",
-          "short_lore": "Centuries ago, in the serene and enchanting forests of the Celestial Plains, the Fox Clan thrived in harmony with nature. The clan members, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
+          "short_lore": "Centuries ago, in the serene and enchanting forests of the Celestial Plains, the Fox Clan thrived in harmony with nature. The clan hero, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
           "title": "Master of the 6 Pink Petals",
           "rank": "Unique",
           "image": "1-debug",

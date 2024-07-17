@@ -1,0 +1,35 @@
+{
+    "menu": {
+        "music": [
+            {
+                "title": "Kyaa",
+                "creator": "Hiusi",
+                "duration": 155,
+                "link": "https://www.dropbox.com/scl/fi/6f946h2w1qe0zh0yynupj/kyaa.ogg?rlkey=zpqu722orqycvn2mk1ej786id&st=7a9je1y4&dl=1"
+            },
+            {
+                "title": "추억의 그림자",
+                "creator": "UWUCookies",
+                "duration": 118,
+                "link": "https://www.dropbox.com/scl/fi/kpd34d927ib5g6tpgapi4/.ogg?rlkey=a9iy38ugjswacs3gvk9me3naq&st=m3nqlous&dl=1"
+            },
+            {
+                "title": "Sayonara koe",
+                "creator": "Hiusi",
+                "duration": 183,
+                "link": "https://www.dropbox.com/scl/fi/ln2nqddb7f1kabz1h0gph/3.ogg?rlkey=b50jy4pf4d08tykkyq1wsfn1j&st=xzns4oqz&dl=1"
+            },
+            {
+                "title": "Bebas",
+                "creator": "Hiusi",
+                "duration": 79,
+                "link": "https://www.dropbox.com/scl/fi/vlflc37a4ujyafo76qc9y/bebas.mp3?rlkey=8toy7ru3t1q7eaji9wvzqyh1d&st=rj531tvv&dl=1"
+            }
+        ],
+        "bicycle": {
+            "color": "red",
+            "price": 19.95
+        }
+    },
+    "expensive": 10
+}

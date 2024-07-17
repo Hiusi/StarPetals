@@ -518,19 +518,19 @@
       "mined": 250226,
       "chance": "0.023%"
     },
-    "Celestial": {
+    "Mythical": {
       "mined": 151078,
       "chance": "0.7%"
     },
-    "Immortal": {
+    "Legendary": {
       "mined": 91215,
       "chance": "1.26%"
     },
-    "Ancient": {
+    "Rare": {
       "mined": 55072,
       "chance": "3.21%"
     },
-    "Soldier": {
+    "Common": {
       "mined": 4418,
       "chance": "24.03%"
     }
@@ -538,8 +538,9 @@
   "frame": {
     "Event": 0,
     "Unique": 0,
-    "Immortal": 0,
-    "Ancient": 0,
-    "Soldier": 0
+    "Mythical": 0,
+    "Legendary": 0,
+    "Rare":0,
+    "Common": 0
   }
 }

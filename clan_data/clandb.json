@@ -1,151 +1,166 @@
 {
-  "clan": {
-    "hidden_village": [
-      {
-        "name": "Ayumi",
-        "short_lore": "Ayumi hails from the Hidden Fox Clan. She is once saved by unknown person who becomes her admired person, she is determined to find this said person.",
-        "title": "Enigma of the Shadows",
-        "rank": "Unique",
-        "image": "1-debug",
-        "thumb": "1-debug",
-        "event": 0
-      },
-      {
-        "category": "Petal",
-        "short_lore": "Centuries ago, in the serene and enchanting forests of the Celestial Plains, the Fox Clan thrived in harmony with nature. The clan members, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
-        "title": "Master of the 6 Pink Petals",
-        "rank": "Unique",
-        "image": "1-debug",
-        "thumb": "1-debug",
-        "event": 0
-      },
-      {
-        "category": "Aki",
-        "short_lore": "Aki stands out even among her talented clan, displaying an extraordinary ability to manipulate spirits, much like the legendary Petals.",
-        "title": "Deity of the Silent Storm",
-        "rank": "Celestial",
-        "image": "1-debug",
-        "thumb": "1-debug",
-        "event": 0
-      }
-    ],
-    "moonlight_lotus": [
-      {
-        "name": "Ayumi",
-        "short_lore": "Ayumi hails from the Hidden Fox Clan. She is once saved by unknown person who becomes her admired person, she is determined to find this said person.",
-        "title": "Enigma of the Shadows",
-        "rank": "Unique",
-        "image": "1-debug",
-        "thumb": "1-debug",
-        "event": 0
-      },
-      {
-        "category": "Petal",
-        "short_lore": "Centuries ago, in the serene and enchanting forests of the Celestial Plains, the Fox Clan thrived in harmony with nature. The clan members, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
-        "title": "Master of the 6 Pink Petals",
-        "rank": "Unique",
-        "image": "1-debug",
-        "thumb": "1-debug",
-        "event": 0
-      },
-      {
-        "category": "Aki",
-        "short_lore": "Aki stands out even among her talented clan, displaying an extraordinary ability to manipulate spirits, much like the legendary Petals.",
-        "title": "Deity of the Silent Storm",
-        "rank": "Celestial",
-        "image": "1-debug",
-        "thumb": "1-debug",
-        "event": 0
-      }
-    ],
-    "veil_of_darksara": [
-      {
-        "name": "Ayumi",
-        "short_lore": "Ayumi hails from the Hidden Fox Clan. She is once saved by unknown person who becomes her admired person, she is determined to find this said person.",
-        "title": "Enigma of the Shadows",
-        "rank": "Unique",
-        "image": "1-debug",
-        "thumb": "1-debug",
-        "event": 0
-      },
-      {
-        "category": "Petal",
-        "short_lore": "Centuries ago, in the serene and enchanting forests of the Celestial Plains, the Fox Clan thrived in harmony with nature. The clan members, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
-        "title": "Master of the 6 Pink Petals",
-        "rank": "Unique",
-        "image": "1-debug",
-        "thumb": "1-debug",
-        "event": 0
-      },
-      {
-        "category": "Aki",
-        "short_lore": "Aki stands out even among her talented clan, displaying an extraordinary ability to manipulate spirits, much like the legendary Petals.",
-        "title": "Deity of the Silent Storm",
-        "rank": "Celestial",
-        "image": "1-debug",
-        "thumb": "1-debug",
-        "event": 0
-      }
-    ],
-    "celestial_divine_court": [
-      {
-        "name": "Ayumi",
-        "short_lore": "Ayumi hails from the Hidden Fox Clan. She is once saved by unknown person who becomes her admired person, she is determined to find this said person.",
-        "title": "Enigma of the Shadows",
-        "rank": "Unique",
-        "image": "1-debug",
-        "thumb": "1-debug",
-        "event": 0
-      },
-      {
-        "category": "Petal",
-        "short_lore": "Centuries ago, in the serene and enchanting forests of the Celestial Plains, the Fox Clan thrived in harmony with nature. The clan members, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
-        "title": "Master of the 6 Pink Petals",
-        "rank": "Unique",
-        "image": "1-debug",
-        "thumb": "1-debug",
-        "event": 0
-      },
-      {
-        "category": "Aki",
-        "short_lore": "Aki stands out even among her talented clan, displaying an extraordinary ability to manipulate spirits, much like the legendary Petals.",
-        "title": "Deity of the Silent Storm",
-        "rank": "Celestial",
-        "image": "1-debug",
-        "thumb": "1-debug",
-        "event": 0
-      }
-    ],
-    "red_hot_steel": [
-      {
-        "name": "Ayumi",
-        "short_lore": "Ayumi hails from the Hidden Fox Clan. She is once saved by unknown person who becomes her admired person, she is determined to find this said person.",
-        "title": "Enigma of the Shadows",
-        "rank": "Unique",
-        "image": "1-debug",
-        "thumb": "1-debug",
-        "event": 0
-      },
-      {
-        "category": "Petal",
-        "short_lore": "Centuries ago, in the serene and enchanting forests of the Celestial Plains, the Fox Clan thrived in harmony with nature. The clan members, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
-        "title": "Master of the 6 Pink Petals",
-        "rank": "Unique",
-        "image": "1-debug",
-        "thumb": "1-debug",
-        "event": 0
-      },
-      {
-        "category": "Aki",
-        "short_lore": "Aki stands out even among her talented clan, displaying an extraordinary ability to manipulate spirits, much like the legendary Petals.",
-        "title": "Deity of the Silent Storm",
-        "rank": "Celestial",
-        "image": "1-debug",
-        "thumb": "1-debug",
-        "event": 0
-      }
-    ]
-  },
+  "clans": [
+    {
+      "name": "hidden_village",
+      "members": [
+        {
+          "name": "Ayumi",
+          "short_lore": "Ayumi hails from the Hidden Fox Clan. She is once saved by unknown person who becomes her admired person, she is determined to find this said person.",
+          "title": "Enigma of the Shadows",
+          "rank": "Unique",
+          "image": "1-debug",
+          "thumb": "1-debug",
+          "event": 0
+        },
+        {
+          "name": "Petal",
+          "short_lore": "Centuries ago, in the serene and enchanting forests of the Celestial Plains, the Fox Clan thrived in harmony with nature. The clan members, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
+          "title": "Master of the 6 Pink Petals",
+          "rank": "Unique",
+          "image": "1-debug",
+          "thumb": "1-debug",
+          "event": 0
+        },
+        {
+          "name": "Aki",
+          "short_lore": "Aki stands out even among her talented clan, displaying an extraordinary ability to manipulate spirits, much like the legendary Petals.",
+          "title": "Deity of the Silent Storm",
+          "rank": "Celestial",
+          "image": "1-debug",
+          "thumb": "1-debug",
+          "event": 0
+        }
+      ]
+    },
+    {
+      "name": "moonlight_lotus",
+      "members": [
+        {
+          "name": "Ayumi",
+          "short_lore": "Ayumi hails from the Hidden Fox Clan. She is once saved by unknown person who becomes her admired person, she is determined to find this said person.",
+          "title": "Enigma of the Shadows",
+          "rank": "Unique",
+          "image": "1-debug",
+          "thumb": "1-debug",
+          "event": 0
+        },
+        {
+          "name": "Petal",
+          "short_lore": "Centuries ago, in the serene and enchanting forests of the Celestial Plains, the Fox Clan thrived in harmony with nature. The clan members, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
+          "title": "Master of the 6 Pink Petals",
+          "rank": "Unique",
+          "image": "1-debug",
+          "thumb": "1-debug",
+          "event": 0
+        },
+        {
+          "name": "Aki",
+          "short_lore": "Aki stands out even among her talented clan, displaying an extraordinary ability to manipulate spirits, much like the legendary Petals.",
+          "title": "Deity of the Silent Storm",
+          "rank": "Celestial",
+          "image": "1-debug",
+          "thumb": "1-debug",
+          "event": 0
+        }
+      ]
+    },
+    {
+      "name": "veil_of_darksara",
+      "members": [
+        {
+          "name": "Ayumi",
+          "short_lore": "Ayumi hails from the Hidden Fox Clan. She is once saved by unknown person who becomes her admired person, she is determined to find this said person.",
+          "title": "Enigma of the Shadows",
+          "rank": "Unique",
+          "image": "1-debug",
+          "thumb": "1-debug",
+          "event": 0
+        },
+        {
+          "name": "Petal",
+          "short_lore": "Centuries ago, in the serene and enchanting forests of the Celestial Plains, the Fox Clan thrived in harmony with nature. The clan members, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
+          "title": "Master of the 6 Pink Petals",
+          "rank": "Unique",
+          "image": "1-debug",
+          "thumb": "1-debug",
+          "event": 0
+        },
+        {
+          "name": "Aki",
+          "short_lore": "Aki stands out even among her talented clan, displaying an extraordinary ability to manipulate spirits, much like the legendary Petals.",
+          "title": "Deity of the Silent Storm",
+          "rank": "Celestial",
+          "image": "1-debug",
+          "thumb": "1-debug",
+          "event": 0
+        }
+      ]
+    },
+    {
+      "name": "celestial_divine_court",
+      "members": [
+        {
+          "name": "Ayumi",
+          "short_lore": "Ayumi hails from the Hidden Fox Clan. She is once saved by unknown person who becomes her admired person, she is determined to find this said person.",
+          "title": "Enigma of the Shadows",
+          "rank": "Unique",
+          "image": "1-debug",
+          "thumb": "1-debug",
+          "event": 0
+        },
+        {
+          "name": "Petal",
+          "short_lore": "Centuries ago, in the serene and enchanting forests of the Celestial Plains, the Fox Clan thrived in harmony with nature. The clan members, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
+          "title": "Master of the 6 Pink Petals",
+          "rank": "Unique",
+          "image": "1-debug",
+          "thumb": "1-debug",
+          "event": 0
+        },
+        {
+          "name": "Aki",
+          "short_lore": "Aki stands out even among her talented clan, displaying an extraordinary ability to manipulate spirits, much like the legendary Petals.",
+          "title": "Deity of the Silent Storm",
+          "rank": "Celestial",
+          "image": "1-debug",
+          "thumb": "1-debug",
+          "event": 0
+        }
+      ]
+    },
+    {
+      "name": "red_hot_steel",
+      "members": [
+        {
+          "name": "Ayumi",
+          "short_lore": "Ayumi hails from the Hidden Fox Clan. She is once saved by unknown person who becomes her admired person, she is determined to find this said person.",
+          "title": "Enigma of the Shadows",
+          "rank": "Unique",
+          "image": "1-debug",
+          "thumb": "1-debug",
+          "event": 0
+        },
+        {
+          "name": "Petal",
+          "short_lore": "Centuries ago, in the serene and enchanting forests of the Celestial Plains, the Fox Clan thrived in harmony with nature. The clan members, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
+          "title": "Master of the 6 Pink Petals",
+          "rank": "Unique",
+          "image": "1-debug",
+          "thumb": "1-debug",
+          "event": 0
+        },
+        {
+          "name": "Aki",
+          "short_lore": "Aki stands out even among her talented clan, displaying an extraordinary ability to manipulate spirits, much like the legendary Petals.",
+          "title": "Deity of the Silent Storm",
+          "rank": "Celestial",
+          "image": "1-debug",
+          "thumb": "1-debug",
+          "event": 0
+        }
+      ]
+    }
+  ],
   "block": {
     "Unique": {
       "mined": 250226,

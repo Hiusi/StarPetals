@@ -1,161 +1,237 @@
 {
   "clan": [
     {
-      "name": "Mythical Divine Court",
+      "name": "Divine Peaks",
       "hero": [
         {
-          "name": "Ayumi",
-          "short_lore": "Ayumi hails from the Hidden Fox Clan. She is once saved by unknown person who becomes her admired person, she is determined to find this said person.",
-          "title": "Enigma of the Shadows",
-          "rank": "Unique",
-          "image": "1-debug",
-          "thumb": "1-debug",
+          "name": "Zycos",
+          "short_lore": "short_lore",
+          "title": "Starfall Guardian",
+          "rank": "Mythical",
+          "image": "zycos",
+          "thumb": "zycos",
           "event": 0
         },
         {
-          "name": "Petal Mythical",
-          "short_lore": "Centuries ago, in the serene and enchanting forests of the Mythical Plains, the Fox Clan thrived in harmony with nature. The clan hero, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
-          "title": "Master of the 6 Pink Petals",
+          "name": "Sian",
+          "short_lore": "short_lore",
+          "title": "Dragonbane Knight",
           "rank": "Mythical",
-          "image": "1-debug",
-          "thumb": "1-debug",
+          "image": "sian",
+          "thumb": "sian",
           "event": 0
         },
         {
-          "name": "Aki2",
-          "short_lore": "Aki stands out even among her talented clan, displaying an extraordinary ability to manipulate spirits, much like the legendary Petals.",
-          "title": "Deity of the Silent Storm",
+          "name": "Rina",
+          "short_lore": "short_lore",
+          "title": "Dragonbane Knight",
           "rank": "Mythical",
-          "image": "1-debug",
-          "thumb": "1-debug",
+          "image": "rina",
+          "thumb": "rina",
+          "event": 1
+        },
+        {
+          "name": "Rhaelys",
+          "short_lore": "short_lore",
+          "title": "Wyrmbane Sentinel",
+          "rank": "Legendary",
+          "image": "rhaelys",
+          "thumb": "rhaelys",
+          "event": 0
+        },
+        {
+          "name": "Moon Wing",
+          "short_lore": "short_lore",
+          "title": "Lunar Vanguard",
+          "rank": "Legendary",
+          "image": "moonwing",
+          "thumb": "moonwing",
+          "event": 0
+        },
+        {
+          "name": "Draconic Ascendants",
+          "short_lore": "short_lore",
+          "title": "",
+          "rank": "Rare",
+          "image": "rare",
+          "thumb": "rare",
+          "event": 0
+        },
+        {
+          "name": "Draegar",
+          "short_lore": "short_lore",
+          "title": "",
+          "rank": "Common",
+          "image": "common",
+          "thumb": "common",
           "event": 0
         }
       ]
     },
     {
-      "name": "Crystal Lotus Lake",
+      "name": "Moonlit Lilies",
       "hero": [
         {
-          "name": "Ayumi",
-          "short_lore": "Ayumi hails from the Hidden Fox Clan. She is once saved by unknown person who becomes her admired person, she is determined to find this said person.",
-          "title": "Enigma of the Shadows",
-          "rank": "Unique",
-          "image": "1-debug",
-          "thumb": "1-debug",
+          "name": "Nine",
+          "short_lore": "short_lore",
+          "title": "title_name",
+          "rank": "Legendary",
+          "image": "nine",
+          "thumb": "nine",
+          "event": 1
+        },
+        {
+          "name": "Searia",
+          "short_lore": "short_lore",
+          "title": "title_name",
+          "rank": "Legendary",
+          "image": "searia",
+          "thumb": "searia",
           "event": 0
         },
         {
-          "name": "Petal",
-          "short_lore": "Centuries ago, in the serene and enchanting forests of the Mythical Plains, the Fox Clan thrived in harmony with nature. The clan hero, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
-          "title": "Master of the 6 Pink Petals",
-          "rank": "Unique",
-          "image": "1-debug",
-          "thumb": "1-debug",
-          "event": 0
-        },
-        {
-          "name": "Aki",
-          "short_lore": "Aki stands out even among her talented clan, displaying an extraordinary ability to manipulate spirits, much like the legendary Petals.",
-          "title": "Deity of the Silent Storm",
+          "name": "Seventy One",
+          "short_lore": "short_lore",
+          "title": "title_name",
           "rank": "Mythical",
-          "image": "1-debug",
-          "thumb": "1-debug",
+          "image": "seventyone",
+          "thumb": "seventyone",
+          "event": 0
+        },
+        {
+          "name": "Lorekeeper",
+          "short_lore": "short_lore",
+          "title": "title_name",
+          "rank": "Mythical",
+          "image": "lorekeeper",
+          "thumb": "lorekeeper",
+          "event": 0
+        },
+        {
+          "name": "Grand Arcanus",
+          "short_lore": "short_lore",
+          "title": "",
+          "rank": "Rare",
+          "image": "rare",
+          "thumb": "rare",
+          "event": 0
+        },
+        {
+          "name": "Imperial Mage",
+          "short_lore": "short_lore",
+          "title": "",
+          "rank": "Common",
+          "image": "common",
+          "thumb": "common",
           "event": 0
         }
       ]
     },
     {
-      "name": "Emerald Flame Empire",
+      "name": "Frozen Realm",
       "hero": [
         {
-          "name": "Ayumi",
-          "short_lore": "Ayumi hails from the Hidden Fox Clan. She is once saved by unknown person who becomes her admired person, she is determined to find this said person.",
-          "title": "Enigma of the Shadows",
-          "rank": "Unique",
-          "image": "1-debug",
-          "thumb": "1-debug",
+          "name": "Frost",
+          "short_lore": "short_lore",
+          "title": "title_name",
+          "rank": "Legendary",
+          "image": "frost",
+          "thumb": "frost",
           "event": 0
         },
         {
-          "name": "Petal",
-          "short_lore": "Centuries ago, in the serene and enchanting forests of the Mythical Plains, the Fox Clan thrived in harmony with nature. The clan hero, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
-          "title": "Master of the 6 Pink Petals",
-          "rank": "Unique",
-          "image": "1-debug",
-          "thumb": "1-debug",
+          "name": "Luzia",
+          "short_lore": "short_lore",
+          "title": "title_name",
+          "rank": "Legendary",
+          "image": "luzia",
+          "thumb": "luzia",
           "event": 0
         },
         {
-          "name": "Aki",
-          "short_lore": "Aki stands out even among her talented clan, displaying an extraordinary ability to manipulate spirits, much like the legendary Petals.",
-          "title": "Deity of the Silent Storm",
-          "rank": "Mythical",
-          "image": "1-debug",
-          "thumb": "1-debug",
+          "name": "Winter’s Blade",
+          "short_lore": "short_lore",
+          "title": "",
+          "rank": "Rare",
+          "image": "rare",
+          "thumb": "rare",
+          "event": 0
+        },
+        {
+          "name": "Yuki Onna",
+          "short_lore": "short_lore",
+          "title": "",
+          "rank": "Common",
+          "image": "common",
+          "thumb": "common",
           "event": 0
         }
       ]
     },
     {
-      "name": "Frozen Blossom Realm",
+      "name": "Fortune Pagoda",
       "hero": [
         {
-          "name": "Ayumi",
-          "short_lore": "Ayumi hails from the Hidden Fox Clan. She is once saved by unknown person who becomes her admired person, she is determined to find this said person.",
-          "title": "Enigma of the Shadows",
-          "rank": "Unique",
-          "image": "1-debug",
-          "thumb": "1-debug",
-          "event": 0
-        },
-        {
-          "name": "Petal",
-          "short_lore": "Centuries ago, in the serene and enchanting forests of the Mythical Plains, the Fox Clan thrived in harmony with nature. The clan hero, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
-          "title": "Master of the 6 Pink Petals",
-          "rank": "Unique",
-          "image": "1-debug",
-          "thumb": "1-debug",
-          "event": 0
-        },
-        {
-          "name": "Aki",
-          "short_lore": "Aki stands out even among her talented clan, displaying an extraordinary ability to manipulate spirits, much like the legendary Petals.",
-          "title": "Deity of the Silent Storm",
+          "name": "Emerald Mist",
+          "short_lore": "short_lore",
+          "title": "title_name",
           "rank": "Mythical",
-          "image": "1-debug",
-          "thumb": "1-debug",
-          "event": 0
-        }
-      ]
-    },
-    {
-      "name": "Golden Pagoda Republic",
-      "hero": [
-        {
-          "name": "Ayumi",
-          "short_lore": "Ayumi hails from the Hidden Fox Clan. She is once saved by unknown person who becomes her admired person, she is determined to find this said person.",
-          "title": "Enigma of the Shadows",
-          "rank": "Unique",
-          "image": "1-debug",
-          "thumb": "1-debug",
+          "image": "emeraldmist",
+          "thumb": "emeraldmist",
           "event": 0
         },
         {
-          "name": "Petal",
-          "short_lore": "Centuries ago, in the serene and enchanting forests of the Mythical Plains, the Fox Clan thrived in harmony with nature. The clan hero, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
-          "title": "Master of the 6 Pink Petals",
-          "rank": "Unique",
-          "image": "1-debug",
-          "thumb": "1-debug",
+          "name": "Emerald Rain",
+          "short_lore": "short_lore",
+          "title": "title_name",
+          "rank": "Legendary",
+          "image": "emeraldrain",
+          "thumb": "emeraldrain",
           "event": 0
         },
         {
-          "name": "Aki",
-          "short_lore": "Aki stands out even among her talented clan, displaying an extraordinary ability to manipulate spirits, much like the legendary Petals.",
-          "title": "Deity of the Silent Storm",
-          "rank": "Mythical",
-          "image": "1-debug",
-          "thumb": "1-debug",
+          "name": "Emerald Wind",
+          "short_lore": "short_lore",
+          "title": "title_name",
+          "rank": "Legendary",
+          "image": "emeraldwind",
+          "thumb": "emeraldwind",
+          "event": 0
+        },
+        {
+          "name": "Obsidian Tempest",
+          "short_lore": "short_lore",
+          "title": "title_name",
+          "rank": "Legendary",
+          "image": "obsidiantempest",
+          "thumb": "obsidiantempest",
+          "event": 0
+        },
+        {
+          "name": "Obsidian Raven",
+          "short_lore": "short_lore",
+          "title": "title_name",
+          "rank": "Legendary",
+          "image": "obsidianraven",
+          "thumb": "obsidianraven",
+          "event": 0
+        },
+        {
+          "name": "Diamond Pagoda",
+          "short_lore": "short_lore",
+          "title": "",
+          "rank": "Rare",
+          "image": "rare",
+          "thumb": "rare",
+          "event": 0
+        },
+        {
+          "name": "Iron Pagoda",
+          "short_lore": "short_lore",
+          "title": "",
+          "rank": "Common",
+          "image": "common",
+          "thumb": "common",
           "event": 0
         }
       ]
@@ -164,350 +240,125 @@
       "name": "Hidden Village",
       "hero": [
         {
-          "name": "Ayumi",
-          "short_lore": "Ayumi hails from the Hidden Fox Clan. She is once saved by unknown person who becomes her admired person, she is determined to find this said person.",
+          "name": "Ember",
+          "short_lore": "Ember hails from the Hidden Fox Clan. She is once saved by unknown person who becomes her admired person, she is determined to find this said person.",
           "title": "Enigma of the Shadows",
-          "rank": "Unique",
-          "image": "1-debug",
-          "thumb": "1-debug",
+          "rank": "Mythical",
+          "image": "ember",
+          "thumb": "ember",
           "event": 0
         },
         {
           "name": "Petal",
           "short_lore": "Centuries ago, in the serene and enchanting forests of the Mythical Plains, the Fox Clan thrived in harmony with nature. The clan hero, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
           "title": "Master of the 6 Pink Petals",
-          "rank": "Unique",
-          "image": "1-debug",
-          "thumb": "1-debug",
+          "rank": "Mythical",
+          "image": "petal",
+          "thumb": "petal",
           "event": 0
+        },
+        {
+          "name": "Silvie",
+          "short_lore": "short_lore",
+          "title": "Soul Fox Wanderer",
+          "rank": "Mythical",
+          "image": "aki",
+          "thumb": "aki",
+          "event": 0
+        },
+        {
+          "name": "Pearl",
+          "short_lore": "short_lore",
+          "title": "title_name",
+          "rank": "Mythical",
+          "image": "pearl",
+          "thumb": "pearl",
+          "event": 1
         },
         {
           "name": "Aki",
           "short_lore": "Aki stands out even among her talented clan, displaying an extraordinary ability to manipulate spirits, much like the legendary Petals.",
           "title": "Deity of the Silent Storm",
-          "rank": "Mythical",
-          "image": "1-debug",
-          "thumb": "1-debug",
+          "rank": "Legendary",
+          "image": "aki",
+          "thumb": "aki",
+          "event": 0
+        },
+        {
+          "name": "Luna",
+          "short_lore": "short_lore",
+          "title": "Deity of the Silent Storm",
+          "rank": "Legendary",
+          "image": "luna",
+          "thumb": "luna",
+          "event": 0
+        },
+        {
+          "name": "Fox Guardian",
+          "short_lore": "short_lore",
+          "title": "",
+          "rank": "Rare",
+          "image": "rare",
+          "thumb": "rare",
+          "event": 0
+        },
+        {
+          "name": "Shadow Sentinel",
+          "short_lore": "short_lore",
+          "title": "",
+          "rank": "Common",
+          "image": "common",
+          "thumb": "common",
           "event": 0
         }
       ]
     },
     {
-      "name": "Jade Phoenix Alliance",
+      "name": "Darksara",
       "hero": [
         {
-          "name": "Ayumi",
-          "short_lore": "Ayumi hails from the Hidden Fox Clan. She is once saved by unknown person who becomes her admired person, she is determined to find this said person.",
-          "title": "Enigma of the Shadows",
-          "rank": "Unique",
-          "image": "1-debug",
-          "thumb": "1-debug",
+          "name": "Masu",
+          "short_lore": "short_lore",
+          "title": "title_name",
+          "rank": "Legendary",
+          "image": "masu",
+          "thumb": "masu",
           "event": 0
         },
         {
-          "name": "Petal",
-          "short_lore": "Centuries ago, in the serene and enchanting forests of the Mythical Plains, the Fox Clan thrived in harmony with nature. The clan hero, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
-          "title": "Master of the 6 Pink Petals",
-          "rank": "Unique",
-          "image": "1-debug",
-          "thumb": "1-debug",
+          "name": "World Weaver",
+          "short_lore": "short_lore",
+          "title": "title_name",
+          "rank": "Legendary",
+          "image": "worldweaver",
+          "thumb": "worldweaver",
           "event": 0
         },
         {
-          "name": "Aki",
-          "short_lore": "Aki stands out even among her talented clan, displaying an extraordinary ability to manipulate spirits, much like the legendary Petals.",
-          "title": "Deity of the Silent Storm",
-          "rank": "Mythical",
-          "image": "1-debug",
-          "thumb": "1-debug",
-          "event": 0
-        }
-      ]
-    },
-    {
-      "name": "Moonlight Lotus",
-      "hero": [
-        {
-          "name": "Ayumi",
-          "short_lore": "Ayumi hails from the Hidden Fox Clan. She is once saved by unknown person who becomes her admired person, she is determined to find this said person.",
-          "title": "Enigma of the Shadows",
-          "rank": "Unique",
-          "image": "1-debug",
-          "thumb": "1-debug",
+          "name": "Sovereign",
+          "short_lore": "[UPGRADEABLE SECRET CLASS]",
+          "title": "The Loyal Defender",
+          "rank": "Rare",
+          "image": "dora",
+          "thumb": "dora",
           "event": 0
         },
         {
-          "name": "Petal",
-          "short_lore": "Centuries ago, in the serene and enchanting forests of the Mythical Plains, the Fox Clan thrived in harmony with nature. The clan hero, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
-          "title": "Master of the 6 Pink Petals",
-          "rank": "Unique",
-          "image": "1-debug",
-          "thumb": "1-debug",
+          "name": "Kesatria",
+          "short_lore": "short_lore",
+          "title": "",
+          "rank": "Rare",
+          "image": "rare",
+          "thumb": "rare",
           "event": 0
         },
         {
-          "name": "Aki",
-          "short_lore": "Aki stands out even among her talented clan, displaying an extraordinary ability to manipulate spirits, much like the legendary Petals.",
-          "title": "Deity of the Silent Storm",
-          "rank": "Mythical",
-          "image": "1-debug",
-          "thumb": "1-debug",
-          "event": 0
-        }
-      ]
-    },
-    {
-      "name": "Mystic Crane Village",
-      "hero": [
-        {
-          "name": "Ayumi",
-          "short_lore": "Ayumi hails from the Hidden Fox Clan. She is once saved by unknown person who becomes her admired person, she is determined to find this said person.",
-          "title": "Enigma of the Shadows",
-          "rank": "Unique",
-          "image": "1-debug",
-          "thumb": "1-debug",
-          "event": 0
-        },
-        {
-          "name": "Petal",
-          "short_lore": "Centuries ago, in the serene and enchanting forests of the Mythical Plains, the Fox Clan thrived in harmony with nature. The clan hero, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
-          "title": "Master of the 6 Pink Petals",
-          "rank": "Unique",
-          "image": "1-debug",
-          "thumb": "1-debug",
-          "event": 0
-        },
-        {
-          "name": "Aki",
-          "short_lore": "Aki stands out even among her talented clan, displaying an extraordinary ability to manipulate spirits, much like the legendary Petals.",
-          "title": "Deity of the Silent Storm",
-          "rank": "Mythical",
-          "image": "1-debug",
-          "thumb": "1-debug",
-          "event": 0
-        }
-      ]
-    },
-    {
-      "name": "Obsidian Tortoise Fortress",
-      "hero": [
-        {
-          "name": "Ayumi",
-          "short_lore": "Ayumi hails from the Hidden Fox Clan. She is once saved by unknown person who becomes her admired person, she is determined to find this said person.",
-          "title": "Enigma of the Shadows",
-          "rank": "Unique",
-          "image": "1-debug",
-          "thumb": "1-debug",
-          "event": 0
-        },
-        {
-          "name": "Petal",
-          "short_lore": "Centuries ago, in the serene and enchanting forests of the Mythical Plains, the Fox Clan thrived in harmony with nature. The clan hero, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
-          "title": "Master of the 6 Pink Petals",
-          "rank": "Unique",
-          "image": "1-debug",
-          "thumb": "1-debug",
-          "event": 0
-        },
-        {
-          "name": "Aki",
-          "short_lore": "Aki stands out even among her talented clan, displaying an extraordinary ability to manipulate spirits, much like the legendary Petals.",
-          "title": "Deity of the Silent Storm",
-          "rank": "Mythical",
-          "image": "1-debug",
-          "thumb": "1-debug",
-          "event": 0
-        }
-      ]
-    },
-    {
-      "name": "Red Hot Steel",
-      "hero": [
-        {
-          "name": "Ayumi",
-          "short_lore": "Ayumi hails from the Hidden Fox Clan. She is once saved by unknown person who becomes her admired person, she is determined to find this said person.",
-          "title": "Enigma of the Shadows",
-          "rank": "Unique",
-          "image": "1-debug",
-          "thumb": "1-debug",
-          "event": 0
-        },
-        {
-          "name": "Petal",
-          "short_lore": "Centuries ago, in the serene and enchanting forests of the Mythical Plains, the Fox Clan thrived in harmony with nature. The clan hero, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
-          "title": "Master of the 6 Pink Petals",
-          "rank": "Unique",
-          "image": "1-debug",
-          "thumb": "1-debug",
-          "event": 0
-        },
-        {
-          "name": "Aki",
-          "short_lore": "Aki stands out even among her talented clan, displaying an extraordinary ability to manipulate spirits, much like the legendary Petals.",
-          "title": "Deity of the Silent Storm",
-          "rank": "Mythical",
-          "image": "1-debug",
-          "thumb": "1-debug",
-          "event": 0
-        }
-      ]
-    },
-    {
-      "name": "Silver Crane Dynasty",
-      "hero": [
-        {
-          "name": "Ayumi",
-          "short_lore": "Ayumi hails from the Hidden Fox Clan. She is once saved by unknown person who becomes her admired person, she is determined to find this said person.",
-          "title": "Enigma of the Shadows",
-          "rank": "Unique",
-          "image": "1-debug",
-          "thumb": "1-debug",
-          "event": 0
-        },
-        {
-          "name": "Petal",
-          "short_lore": "Centuries ago, in the serene and enchanting forests of the Mythical Plains, the Fox Clan thrived in harmony with nature. The clan hero, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
-          "title": "Master of the 6 Pink Petals",
-          "rank": "Unique",
-          "image": "1-debug",
-          "thumb": "1-debug",
-          "event": 0
-        },
-        {
-          "name": "Aki",
-          "short_lore": "Aki stands out even among her talented clan, displaying an extraordinary ability to manipulate spirits, much like the legendary Petals.",
-          "title": "Deity of the Silent Storm",
-          "rank": "Mythical",
-          "image": "1-debug",
-          "thumb": "1-debug",
-          "event": 0
-        }
-      ]
-    },
-    {
-      "name": "Stormcaller's Island",
-      "hero": [
-        {
-          "name": "Ayumi",
-          "short_lore": "Ayumi hails from the Hidden Fox Clan. She is once saved by unknown person who becomes her admired person, she is determined to find this said person.",
-          "title": "Enigma of the Shadows",
-          "rank": "Unique",
-          "image": "1-debug",
-          "thumb": "1-debug",
-          "event": 0
-        },
-        {
-          "name": "Petal",
-          "short_lore": "Centuries ago, in the serene and enchanting forests of the Mythical Plains, the Fox Clan thrived in harmony with nature. The clan hero, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
-          "title": "Master of the 6 Pink Petals",
-          "rank": "Unique",
-          "image": "1-debug",
-          "thumb": "1-debug",
-          "event": 0
-        },
-        {
-          "name": "Aki",
-          "short_lore": "Aki stands out even among her talented clan, displaying an extraordinary ability to manipulate spirits, much like the legendary Petals.",
-          "title": "Deity of the Silent Storm",
-          "rank": "Mythical",
-          "image": "1-debug",
-          "thumb": "1-debug",
-          "event": 0
-        }
-      ]
-    },
-    {
-      "name": "Thunder Mountain Tribe",
-      "hero": [
-        {
-          "name": "Ayumi",
-          "short_lore": "Ayumi hails from the Hidden Fox Clan. She is once saved by unknown person who becomes her admired person, she is determined to find this said person.",
-          "title": "Enigma of the Shadows",
-          "rank": "Unique",
-          "image": "1-debug",
-          "thumb": "1-debug",
-          "event": 0
-        },
-        {
-          "name": "Petal",
-          "short_lore": "Centuries ago, in the serene and enchanting forests of the Mythical Plains, the Fox Clan thrived in harmony with nature. The clan hero, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
-          "title": "Master of the 6 Pink Petals",
-          "rank": "Unique",
-          "image": "1-debug",
-          "thumb": "1-debug",
-          "event": 0
-        },
-        {
-          "name": "Aki",
-          "short_lore": "Aki stands out even among her talented clan, displaying an extraordinary ability to manipulate spirits, much like the legendary Petals.",
-          "title": "Deity of the Silent Storm",
-          "rank": "Mythical",
-          "image": "1-debug",
-          "thumb": "1-debug",
-          "event": 0
-        }
-      ]
-    },
-    {
-      "name": "Veil of Darksara",
-      "hero": [
-        {
-          "name": "Ayumi",
-          "short_lore": "Ayumi hails from the Hidden Fox Clan. She is once saved by unknown person who becomes her admired person, she is determined to find this said person.",
-          "title": "Enigma of the Shadows",
-          "rank": "Unique",
-          "image": "1-debug",
-          "thumb": "1-debug",
-          "event": 0
-        },
-        {
-          "name": "Petal",
-          "short_lore": "Centuries ago, in the serene and enchanting forests of the Mythical Plains, the Fox Clan thrived in harmony with nature. The clan hero, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
-          "title": "Master of the 6 Pink Petals",
-          "rank": "Unique",
-          "image": "1-debug",
-          "thumb": "1-debug",
-          "event": 0
-        },
-        {
-          "name": "Aki",
-          "short_lore": "Aki stands out even among her talented clan, displaying an extraordinary ability to manipulate spirits, much like the legendary Petals.",
-          "title": "Deity of the Silent Storm",
-          "rank": "Mythical",
-          "image": "1-debug",
-          "thumb": "1-debug",
-          "event": 0
-        }
-      ]
-    },
-    {
-      "name": "Whispering Bamboo Grove",
-      "hero": [
-        {
-          "name": "Ayumi",
-          "short_lore": "Ayumi hails from the Hidden Fox Clan. She is once saved by unknown person who becomes her admired person, she is determined to find this said person.",
-          "title": "Enigma of the Shadows",
-          "rank": "Unique",
-          "image": "1-debug",
-          "thumb": "1-debug",
-          "event": 0
-        },
-        {
-          "name": "Petal",
-          "short_lore": "Centuries ago, in the serene and enchanting forests of the Mythical Plains, the Fox Clan thrived in harmony with nature. The clan hero, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
-          "title": "Master of the 6 Pink Petals",
-          "rank": "Unique",
-          "image": "1-debug",
-          "thumb": "1-debug",
-          "event": 0
-        },
-        {
-          "name": "Aki",
-          "short_lore": "Aki stands out even among her talented clan, displaying an extraordinary ability to manipulate spirits, much like the legendary Petals.",
-          "title": "Deity of the Silent Storm",
-          "rank": "Mythical",
-          "image": "1-debug",
-          "thumb": "1-debug",
+          "name": "Pendekar",
+          "short_lore": "short_lore",
+          "title": "",
+          "rank": "Common",
+          "image": "common",
+          "thumb": "common",
           "event": 0
         }
       ]

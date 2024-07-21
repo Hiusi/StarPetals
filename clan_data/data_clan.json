@@ -136,15 +136,15 @@
           "short_lore": [
             "---",
             "**Lore**",
-            "Born under a rare eclipse, Moon Wing, the Nightblade Empress, wields dark powers with unparalleled skill. Her black and red armor, horns, and slit red eyes strike fear into foes. Her smile, framed by short black and blue-purple hair, foretells doom or victory.",
+            "Born under a rare eclipse, Moon Wing, the Nightblade Empress, wields dark powers with unparalleled skill. Her black and red armor, horns, and slit red eyes strike fear into foes. Her smile, framed by short black and blue-purple hair, foretells doom or victory",
             "---",
             "**Effect**",
             "- Superior Mana Shield",
-            "  - Blocked arrows and tridents are reflected back in your line of sight",
+            "  - Blocked arrows and tridents are reflected back in your line of sight ()",
             "- Blessing of Regeneration",
             "  - Gives a passive increase to natural regeneration on taking damage"
           ],
-          "title": "title_name",
+          "title": "Illusionist Adept",
           "rank": "Legendary",
           "image": "nine",
           "thumb": "nine",
@@ -152,8 +152,18 @@
         },
         {
           "name": "Searia",
-          "short_lore": "short_lore",
-          "title": "title_name",
+          "short_lore": [
+            "---",
+            "**Lore**",
+            "Born amidst a cataclysmic storm, she tamed the raging elements, earning her place among the legends of Moonlit Lilies. Her mastery over fire, water, earth, and air is unparalleled. In times of strife, she channels the raw forces of nature, protecting her homeland with the fury of the storm",
+            "---",
+            "**Effect**",
+            "- ???",
+            "  - ???",
+            "- ???",
+            "  - ???"
+          ],
+          "title": "Elemental Archmage",
           "rank": "Legendary",
           "image": "searia",
           "thumb": "searia",
@@ -161,8 +171,18 @@
         },
         {
           "name": "Seventy One",
-          "short_lore": "short_lore",
-          "title": "title_name",
+          "short_lore": [
+            "---",
+            "**Lore**",
+            "A prodigy lost in the labyrinth of the World Library, she deciphers the fire arcane scripts that others have long forgotten. Her spells, drawn from the depths of ancient tomes, defy the conventions of magic. Many fear her power, for she commands the forbidden arts with an expertise unmatched",
+            "---",
+            "**Effect**",
+            "- ???",
+            "  - ???",
+            "- ???",
+            "  - ???"
+          ],
+          "title": "Chantless Prodigy",
           "rank": "Mythical",
           "image": "seventyone",
           "thumb": "seventyone",
@@ -170,8 +190,18 @@
         },
         {
           "name": "Lorekeeper",
-          "short_lore": "short_lore",
-          "title": "title_name",
+          "short_lore": [
+            "---",
+            "**Lore**",
+            "Guardian of the World Library, this sage holds the keys to the deepest arcane mysteries. The Lorekeeper's wisdom is a beacon, guiding those who seek enlightenment. Their knowledge is a powerful tool, revealing hidden truths and unraveling the secrets of the past",
+            "---",
+            "**Effect**",
+            "- ???",
+            "  - ???",
+            "- ???",
+            "  - ???"
+          ],
+          "title": "Guardian of the Library",
           "rank": "Mythical",
           "image": "lorekeeper",
           "thumb": "lorekeeper",
@@ -179,7 +209,14 @@
         },
         {
           "name": "Grand Arcanus",
-          "short_lore": "short_lore",
+          "short_lore": [
+            "---",
+            "**Effect**",
+            "- ???",
+            "  - ???",
+            "- ???",
+            "  - ???"
+          ],
           "title": "",
           "rank": "Rare",
           "image": "rare",
@@ -188,7 +225,14 @@
         },
         {
           "name": "Imperial Mage",
-          "short_lore": "short_lore",
+          "short_lore": [
+            "---",
+            "**Effect**",
+            "- ???",
+            "  - ???",
+            "- ???",
+            "  - ???"
+          ],
           "title": "",
           "rank": "Common",
           "image": "common",
@@ -202,8 +246,18 @@
       "hero": [
         {
           "name": "Frost",
-          "short_lore": "short_lore",
-          "title": "title_name",
+          "short_lore": [
+            "---",
+            "**Lore**",
+            "From the heart of the Frozen Realm, Frost wields the power of winter's fury. Her presence alone can summon blizzards that blanket the battlefield in ice. Tales speak of her single-handedly halting an invading force, encasing them in a glacier that still stands as a warning to all who threaten her homeland",
+            "---",
+            "**Effect**",
+            "- ???",
+            "  - ???",
+            "- ???",
+            "  - ???"
+          ],
+          "title": "Glacial Guardian",
           "rank": "Legendary",
           "image": "frost",
           "thumb": "frost",
@@ -211,8 +265,18 @@
         },
         {
           "name": "Luzia",
-          "short_lore": "short_lore",
-          "title": "title_name",
+          "short_lore": [
+            "---",
+            "**Lore**",
+            "In the perpetual twilight of the Frozen Realm, Luzia's brilliance shines like the auroras that dance across the night sky. Her mastery over light and ice creates stunning displays that both dazzle and decimate. She is revered for her ability to bring warmth to the coldest hearts, yet her wrath is as fierce as a polar storm",
+            "---",
+            "**Effect**",
+            "- ???",
+            "  - ???",
+            "- ???",
+            "  - ???"
+          ],
+          "title": "Aurora Sorceress",
           "rank": "Legendary",
           "image": "luzia",
           "thumb": "luzia",
@@ -220,7 +284,14 @@
         },
         {
           "name": "Winter’s Blade",
-          "short_lore": "short_lore",
+          "short_lore": [
+            "---",
+            "**Effect**",
+            "- ???",
+            "  - ???",
+            "- ???",
+            "  - ???"
+          ],
           "title": "",
           "rank": "Rare",
           "image": "rare",
@@ -229,7 +300,14 @@
         },
         {
           "name": "Yuki Onna",
-          "short_lore": "short_lore",
+          "short_lore": [
+            "---",
+            "**Effect**",
+            "- ???",
+            "  - ???",
+            "- ???",
+            "  - ???"
+          ],
           "title": "",
           "rank": "Common",
           "image": "common",
@@ -243,7 +321,17 @@
       "hero": [
         {
           "name": "Emerald Mist",
-          "short_lore": "short_lore",
+          "short_lore": [
+            "---",
+            "**Lore**",
+            "Master of subterfuge and illusion, Emerald Mist navigates the high-stakes world of Fortune Pagoda with unmatched finesse. Her ability to obscure true intentions and influence critical negotiations ensures her allies always hold the upper hand in business dealings",
+            "---",
+            "**Effect**",
+            "- ???",
+            "  - ???",
+            "- ???",
+            "  - ???"
+          ],
           "title": "title_name",
           "rank": "Mythical",
           "image": "emeraldmist",
@@ -252,7 +340,17 @@
         },
         {
           "name": "Emerald Rain",
-          "short_lore": "short_lore",
+          "short_lore": [
+            "---",
+            "**Lore**",
+            "Known for revitalizing industries and guiding investments, Emerald Rain ensures that ventures flourish under her guidance. Her strategic acumen turns potential into prosperity, making her a pivotal figure in shaping Fortune Pagoda’s economic landscape",
+            "---",
+            "**Effect**",
+            "- ???",
+            "  - ???",
+            "- ???",
+            "  - ???"
+          ],
           "title": "title_name",
           "rank": "Legendary",
           "image": "emeraldrain",
@@ -261,7 +359,17 @@
         },
         {
           "name": "Emerald Wind",
-          "short_lore": "short_lore",
+          "short_lore": [
+            "---",
+            "**Lore**",
+            "Commands the currents of trade and commerce with strategic foresight, influencing market trends and economic tides. Known for moving assets and resources with exceptional speed, ensuring Fortune Pagoda stays ahead in the world of commerce",
+            "---",
+            "**Effect**",
+            "- ???",
+            "  - ???",
+            "- ???",
+            "  - ???"
+          ],
           "title": "title_name",
           "rank": "Legendary",
           "image": "emeraldwind",
@@ -270,7 +378,17 @@
         },
         {
           "name": "Obsidian Tempest",
-          "short_lore": "short_lore",
+          "short_lore": [
+            "---",
+            "**Lore**",
+            "As the enforcer of Fortune Pagoda’s aggressive business tactics, this figure turns the tide of power, asserting dominance in market conflicts. Her tempestuous strategies ensure the Pagoda's interests are fiercely defended against rivals",
+            "---",
+            "**Effect**",
+            "- ???",
+            "  - ???",
+            "- ???",
+            "  - ???"
+          ],
           "title": "title_name",
           "rank": "Legendary",
           "image": "obsidiantempest",
@@ -279,7 +397,17 @@
         },
         {
           "name": "Obsidian Raven",
-          "short_lore": "short_lore",
+          "short_lore": [
+            "---",
+            "**Lore**",
+            "Operates in the shadows to gather and control crucial intelligence, shaping Fortune Pagoda’s strategic decisions. Her foresight into market movements and hidden opportunities keeps the Pagoda ahead of its competitors",
+            "---",
+            "**Effect**",
+            "- ???",
+            "  - ???",
+            "- ???",
+            "  - ???"
+          ],
           "title": "title_name",
           "rank": "Legendary",
           "image": "obsidianraven",
@@ -288,7 +416,14 @@
         },
         {
           "name": "Diamond Pagoda",
-          "short_lore": "short_lore",
+          "short_lore": [
+            "---",
+            "**Effect**",
+            "- ???",
+            "  - ???",
+            "- ???",
+            "  - ???"
+          ],
           "title": "",
           "rank": "Rare",
           "image": "rare",
@@ -297,7 +432,14 @@
         },
         {
           "name": "Iron Pagoda",
-          "short_lore": "short_lore",
+          "short_lore": [
+            "---",
+            "**Effect**",
+            "- ???",
+            "  - ???",
+            "- ???",
+            "  - ???"
+          ],
           "title": "",
           "rank": "Common",
           "image": "common",
@@ -311,7 +453,17 @@
       "hero": [
         {
           "name": "Ember",
-          "short_lore": "Ember hails from the Hidden Fox Clan. She is once saved by unknown person who becomes her admired person, she is determined to find this said person.",
+          "short_lore": [
+            "---",
+            "**Lore**",
+            "From the Hidden Fox Clan, Ember's life was forever changed by a mysterious savior whose identity remains a secret. Driven by gratitude and curiosity, Ember now embarks on a quest to uncover the identity of her enigmatic benefactor, following whispers and shadows",
+            "---",
+            "**Effect**",
+            "- ???",
+            "  - ???",
+            "- ???",
+            "  - ???"
+          ],
           "title": "Enigma of the Shadows",
           "rank": "Mythical",
           "image": "ember",
@@ -320,7 +472,17 @@
         },
         {
           "name": "Petal",
-          "short_lore": "Centuries ago, in the serene and enchanting forests of the Mythical Plains, the Fox Clan thrived in harmony with nature. The clan hero, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
+          "short_lore": [
+            "---",
+            "**Lore**",
+            "In the Mythical Plains, Petal was a beacon of beauty and kindness, deeply connected to nature. Her legacy lives on in the tales of her nurturing spirit and the harmony she brought to the Fox Clan, guided by the wisdom of the ancients and the protection of the spirit",
+            "---",
+            "**Effect**",
+            "- ???",
+            "  - ???",
+            "- ???",
+            "  - ???"
+          ],
           "title": "Master of the 6 Pink Petals",
           "rank": "Mythical",
           "image": "petal",
@@ -329,7 +491,17 @@
         },
         {
           "name": "Silvie",
-          "short_lore": "short_lore",
+          "short_lore": [
+            "---",
+            "**Lore**",
+            "A wandering soul with the power of the Fox Clan, Silvie traverses the world as a guardian of ancient secrets. Her journey is guided by the whispers of spirits and the echoes of the past, as she seeks to balance her clan’s mystical heritage with her own quest for wisdom",
+            "---",
+            "**Effect**",
+            "- ???",
+            "  - ???",
+            "- ???",
+            "  - ???"
+          ],
           "title": "Soul Fox Wanderer",
           "rank": "Mythical",
           "image": "silvie",
@@ -338,8 +510,21 @@
         },
         {
           "name": "Pearl",
-          "short_lore": "short_lore",
-          "title": "title_name",
+          "short_lore": [
+            "---",
+            "**Lore**",
+            "During the summer festival of the Hidden Village, Pearl emerges as a vibrant spirit of the season. Dressed in a sunny yellow beach outfit with a flower adorning her short blue hair and cat ears, she brings joy and relaxation to all. Her presence is a beacon of warmth and celebration, turning the beach into a paradise of fun and camaraderie",
+            "---",
+            "**Event**",
+            "You can obtain this character from June 20 to September 20",
+            "---",
+            "**Effect**",
+            "- ???",
+            "  - ???",
+            "- ???",
+            "  - ???"
+          ],
+          "title": "Sunshine Celebrant",
           "rank": "Mythical",
           "image": "pearl",
           "thumb": "pearl",
@@ -347,7 +532,17 @@
         },
         {
           "name": "Aki",
-          "short_lore": "Aki stands out even among her talented clan, displaying an extraordinary ability to manipulate spirits, much like the legendary Petals.",
+          "short_lore": [
+            "---",
+            "**Lore**",
+            "Aki's mastery over spirit manipulation mirrors the legendary feats of Petal. Her deep connection with the ethereal realm allows her to command spirits with unparalleled skill, influencing the balance of power and harmony within her clan and beyond",
+            "---",
+            "**Effect**",
+            "- ???",
+            "  - ???",
+            "- ???",
+            "  - ???"
+          ],
           "title": "Deity of the Silent Storm",
           "rank": "Legendary",
           "image": "aki",
@@ -356,7 +551,17 @@
         },
         {
           "name": "Luna",
-          "short_lore": "short_lore",
+          "short_lore": [
+            "---",
+            "**Lore**",
+            "Luna embodies the quiet strength and resilience of the Hidden Village. Her presence is a guiding light in times of darkness, blending ancient wisdom with her own mystical prowess to lead and protect her people through the most challenging trials",
+            "---",
+            "**Effect**",
+            "- ???",
+            "  - ???",
+            "- ???",
+            "  - ???"
+          ],
           "title": "Deity of the Silent Storm",
           "rank": "Legendary",
           "image": "luna",
@@ -365,7 +570,14 @@
         },
         {
           "name": "Fox Guardian",
-          "short_lore": "short_lore",
+          "short_lore": [
+            "---",
+            "**Effect**",
+            "- ???",
+            "  - ???",
+            "- ???",
+            "  - ???"
+          ],
           "title": "",
           "rank": "Rare",
           "image": "rare",
@@ -374,7 +586,14 @@
         },
         {
           "name": "Shadow Sentinel",
-          "short_lore": "short_lore",
+          "short_lore": [
+            "---",
+            "**Effect**",
+            "- ???",
+            "  - ???",
+            "- ???",
+            "  - ???"
+          ],
           "title": "",
           "rank": "Common",
           "image": "common",
@@ -388,7 +607,17 @@
       "hero": [
         {
           "name": "Masu",
-          "short_lore": "short_lore",
+          "short_lore": [
+            "---",
+            "**Lore**",
+            "Once a soldier scarred by conflict, Masu dedicates herself to creating a new world order. Driven by the tragedies she has witnessed, she battles fiercely to prevent future suffering and ensure justice prevails",
+            "---",
+            "**Effect**",
+            "- ???",
+            "  - ???",
+            "- ???",
+            "  - ???"
+          ],
           "title": "title_name",
           "rank": "Legendary",
           "image": "masu",
@@ -397,8 +626,18 @@
         },
         {
           "name": "World Weaver",
-          "short_lore": "short_lore",
-          "title": "title_name",
+          "short_lore": [
+            "---",
+            "**Lore**",
+            "World Weaver harnesses ancient and forbidden knowledge to reshape the world according to her liking. Shrouded in secrecy, this enigmatic figure manipulates the threads of fate, striving to create a singular, just world through profound and often unsettling means",
+            "---",
+            "**Effect**",
+            "- ???",
+            "  - ???",
+            "- ???",
+            "  - ???"
+          ],
+          "title": "Master of Destiny",
           "rank": "Legendary",
           "image": "worldweaver",
           "thumb": "worldweaver",
@@ -406,8 +645,18 @@
         },
         {
           "name": "Sovereign",
-          "short_lore": "[UPGRADEABLE SECRET CLASS]",
-          "title": "The Loyal Defender",
+          "short_lore": [
+            "---",
+            "**Lore**",
+            "Sovereign, Once a beacon of hope, has become a symbol of Darksara’s quest for ultimate justice. Known for their unyielding loyalty to the founder's vision, they serve as the shield and sword in the campaign to unify the world, driven by a profound sense of duty and sacrifice",
+            "---",
+            "**Effect**",
+            "- ???",
+            "  - ???",
+            "- ???",
+            "  - ???"
+          ],
+          "title": "Unyielding Shield",
           "rank": "Rare",
           "image": "sovereign",
           "thumb": "sovereign",
@@ -415,7 +664,14 @@
         },
         {
           "name": "Kesatria",
-          "short_lore": "short_lore",
+          "short_lore": [
+            "---",
+            "**Effect**",
+            "- ???",
+            "  - ???",
+            "- ???",
+            "  - ???"
+          ],
           "title": "",
           "rank": "Rare",
           "image": "rare",
@@ -424,7 +680,14 @@
         },
         {
           "name": "Pendekar",
-          "short_lore": "short_lore",
+          "short_lore": [
+            "---",
+            "**Effect**",
+            "- ???",
+            "  - ???",
+            "- ???",
+            "  - ???"
+          ],
           "title": "",
           "rank": "Common",
           "image": "common",

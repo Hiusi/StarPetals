@@ -6,35 +6,17 @@
         {
           "name": "Zycos",
           "short_lore": [
-            {
-              "line": "---"
-            },
-            {
-              "line": "**Lore**"
-            },
-            {
-              "line": "The Celestial Divine Court prided itself on its formidable army and elite warriors, with Zycos quickly rising through the ranks. She became a prominent figure, leading many successful campaigns to defend the empire's borders and maintain peace within the realm."
-            },
-            {
-              "line": "---"
-            },
-            {
-              "line": "**Effect**"
-            },
-            {
-              "line": "- Fire Affinity"
-            },
-            {
-              "line": " - Ignites hostile entities"
-            },
-            {
-              "line": "- Dragonic Scale"
-            },
-            {
-              "line": " - Increase armor durability on success hit"
-            }
+            "---",
+            "**Lore**",
+            "The Divine Peaks prided itself on its formidable army and elite warriors, with Zycos quickly rising through the ranks. She became a prominent figure, leading many successful campaigns to defend the empire's borders and maintain peace within the realm.",
+            "---",
+            "**Effect**",
+            "- Fire Affinity",
+            "  - Ignites hostile entities (5% chance)",
+            "- Dragonic Scale",
+            "  - Increase armor durability upon successfully killing an enemy"
           ],
-          "title": "Starfall Guardian",
+          "title": "Volcanic Guardian",
           "rank": "Mythical",
           "image": "zycos",
           "thumb": "zycos",
@@ -42,8 +24,18 @@
         },
         {
           "name": "Sian",
-          "short_lore": "short_lore",
-          "title": "Dragonbane Knight",
+          "short_lore": [
+            "---",
+            "**Lore**",
+            "Forged in the heart of an ancient volcano, Sian, the Infernal Peaks, is a warrior whose soul burns with the fury of the underworld. Legend says her dark armor was tempered in dragon fire, granting her a fiery presence that turns the tide of battle. Her fiery gaze alone can ignite fear, and it is whispered that the very ground trembles when she takes the field.",
+            "---",
+            "**Effect**",
+            "- Fire Affinity",
+            "  - Ignites hostile entities (5% chance)",
+            "- Infernal soul",
+            "  - On getting damage launch undestructive Dragon Fireball toward the enemy (2% chance)"
+          ],
+          "title": "Infernal Peaks",
           "rank": "Mythical",
           "image": "sian",
           "thumb": "sian",
@@ -51,8 +43,18 @@
         },
         {
           "name": "Rina",
-          "short_lore": "short_lore",
-          "title": "Dragonbane Knight",
+          "short_lore": [
+            "---",
+            "**Lore**",
+            "Ascending to the throne of the Sky Empress after becoming storm dragons, Rina's ethereal beauty and command of the skies are legendary. She dances among the clouds, guiding the winds and weather. Her presence ensures the safety and prosperity of Divine Peaks.",
+            "---",
+            "**Effect**",
+            "- Fire Affinity",
+            "  - Ignites hostile entities (5% chance)",
+            "- Royalty Order",
+            "  - When trading with villager, there is a chance you will get half of your money back (15%)"
+          ],
+          "title": "Sky Empress",
           "rank": "Mythical",
           "image": "rina",
           "thumb": "rina",
@@ -60,7 +62,17 @@
         },
         {
           "name": "Rhaelys",
-          "short_lore": "short_lore",
+          "short_lore": [
+            "---",
+            "**Lore**",
+            "Under the blood moon's light, the leader of the Elite Wyrmbane Sentinels commands with an iron will. Her void-black armor absorbs the essence of night, and her meteorite iron sword cleaves through the toughest scales. The Sentinels, striking from the shadows, leave only whispers and legends behind.",
+            "---",
+            "**Effect**",
+            "- Fire Affinity",
+            "  - Ignites hostile entities (3% chance)",
+            "- Royalty Order",
+            "  - When trading with villager, there is a chance you will get half of your money back (15%)"
+          ],
           "title": "Wyrmbane Sentinel",
           "rank": "Legendary",
           "image": "rhaelys",
@@ -69,8 +81,18 @@
         },
         {
           "name": "Moon Wing",
-          "short_lore": "short_lore",
-          "title": "Lunar Vanguard",
+          "short_lore": [
+            "---",
+            "**Lore**",
+            "Born under a rare eclipse, Moon Wing, the Nightblade Empress, wields dark powers with unparalleled skill. Her black and red armor, horns, and slit red eyes strike fear into foes. Her smile, framed by short black and blue-purple hair, foretells doom or victory.",
+            "---",
+            "**Effect**",
+            "- Fire Affinity",
+            "  - Ignites hostile entities (3% chance)",
+            "- Dragonic Scale",
+            "  - Increase armor durability upon successfully killing an enemy"
+          ],
+          "title": "title_name",
           "rank": "Legendary",
           "image": "moonwing",
           "thumb": "moonwing",
@@ -78,7 +100,12 @@
         },
         {
           "name": "Draconic Ascendants",
-          "short_lore": "short_lore",
+          "short_lore": [
+            "---",
+            "**Effect**",
+            "- Fire Affinity",
+            "  - Ignites hostile entities (1% chance)"
+          ],
           "title": "",
           "rank": "Rare",
           "image": "rare",
@@ -87,7 +114,12 @@
         },
         {
           "name": "Draegar",
-          "short_lore": "short_lore",
+          "short_lore": [
+            "---",
+            "**Effect**",
+            "- Fire Affinity",
+            "  - Ignites hostile entities (0.5% chance)"
+          ],
           "title": "",
           "rank": "Common",
           "image": "common",
@@ -101,7 +133,17 @@
       "hero": [
         {
           "name": "Nine",
-          "short_lore": "short_lore",
+          "short_lore": [
+            "---",
+            "**Lore**",
+            "Born under a rare eclipse, Moon Wing, the Nightblade Empress, wields dark powers with unparalleled skill. Her black and red armor, horns, and slit red eyes strike fear into foes. Her smile, framed by short black and blue-purple hair, foretells doom or victory.",
+            "---",
+            "**Effect**",
+            "- Superior Mana Shield",
+            "  - Blocked arrows and tridents are reflected back in your line of sight",
+            "- Blessing of Regeneration",
+            "  - Gives a passive increase to natural regeneration on taking damage"
+          ],
           "title": "title_name",
           "rank": "Legendary",
           "image": "nine",

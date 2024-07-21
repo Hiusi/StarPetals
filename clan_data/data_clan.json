@@ -5,7 +5,35 @@
       "hero": [
         {
           "name": "Zycos",
-          "short_lore": "---\n**Lore**\nThe Celestial Divine Court prided itself on its formidable army and elite warriors, with Zycos quickly rising through the ranks. She became a prominent figure, leading many successful campaigns to defend the empire's borders and maintain peace within the realm.\n---\n**Effect**\n- Fire Affinity\n - Ignites hostile entities\n- Dragonic Scale\n - Increase armor durability on success hit",
+          "short_lore": [
+            {
+              "line": "---"
+            },
+            {
+              "line": "**Lore**"
+            },
+            {
+              "line": "The Celestial Divine Court prided itself on its formidable army and elite warriors, with Zycos quickly rising through the ranks. She became a prominent figure, leading many successful campaigns to defend the empire's borders and maintain peace within the realm."
+            },
+            {
+              "line": "---"
+            },
+            {
+              "line": "**Effect**"
+            },
+            {
+              "line": "- Fire Affinity"
+            },
+            {
+              "line": " - Ignites hostile entities"
+            },
+            {
+              "line": "- Dragonic Scale"
+            },
+            {
+              "line": " - Increase armor durability on success hit"
+            }
+          ],
           "title": "Starfall Guardian",
           "rank": "Mythical",
           "image": "zycos",
@@ -391,7 +419,7 @@
     "Unique": 0,
     "Mythical": 0,
     "Legendary": 0,
-    "Rare":0,
+    "Rare": 0,
     "Common": 0
   }
 }

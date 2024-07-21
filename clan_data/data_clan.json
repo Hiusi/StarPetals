@@ -702,23 +702,28 @@
   "block": {
     "Common": {
       "mined": 4418,
-      "chance": "24.03%"
+      "chance": "24.03%",
+      "color": "#808080"
     },
     "Rare": {
       "mined": 55072,
-      "chance": "3.21%"
+      "chance": "3.21%",
+      "color": "#00FFFF"
     },
     "Legendary": {
       "mined": 91215,
-      "chance": "1.26%"
+      "chance": "1.26%",
+      "color": "#0033CC"
     },
     "Mythical": {
       "mined": 151078,
-      "chance": "0.7%"
+      "chance": "0.7%",
+      "color": "#FFA500"
     },
     "Unique": {
       "mined": 250226,
-      "chance": "0.023%"
+      "chance": "0.023%",
+      "color": "#FFD700"
     }
     
   },

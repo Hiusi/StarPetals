@@ -5,7 +5,7 @@
       "hero": [
         {
           "name": "Zycos",
-          "short_lore": "short_lore",
+          "short_lore": "---\n**Lore**\nThe Celestial Divine Court prided itself on its formidable army and elite warriors, with Zycos quickly rising through the ranks. She became a prominent figure, leading many successful campaigns to defend the empire's borders and maintain peace within the realm.\n---\n**Effect**\n- Fire Affinity\n - Ignites hostile entities\n- Dragonic Scale\n - Increase armor durability on success hit",
           "title": "Starfall Guardian",
           "rank": "Mythical",
           "image": "zycos",
@@ -262,8 +262,8 @@
           "short_lore": "short_lore",
           "title": "Soul Fox Wanderer",
           "rank": "Mythical",
-          "image": "aki",
-          "thumb": "aki",
+          "image": "silvie",
+          "thumb": "silvie",
           "event": 0
         },
         {
